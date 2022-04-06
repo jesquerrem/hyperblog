@@ -1,2 +1,2 @@
 # hyperblog
-Projecto 1
+Un blog increible del curso Platzi
